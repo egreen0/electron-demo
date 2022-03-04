@@ -1,0 +1,10 @@
+button {
+    color: blue;
+    text-align: center;
+    font-size: 16px;
+}
+
+.section {
+    border: 2px solid black;
+    padding: 15px;
+}

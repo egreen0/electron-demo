@@ -1,0 +1,17 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "\"Hello World\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eli Green",
+  "license": "MIT",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@playwright/test": "^1.19.2",
+    "electron": "^17.1.0",
+    "playwright": "^1.19.2"
+  }
+}
